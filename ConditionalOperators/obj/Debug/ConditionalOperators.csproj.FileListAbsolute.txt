@@ -1,0 +1,12 @@
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe.config
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.pdb
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.csprojResolveAssemblyReference.cache
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.exe
+c:\users\arteym\documents\visual studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.pdb
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe.config
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.exe
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.pdb
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.exe
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\bin\Debug\ConditionalOperators.pdb
+C:\Users\Arteymas\Documents\Visual Studio 2015\Projects\ConditionalOperators\ConditionalOperators\obj\Debug\ConditionalOperators.csprojResolveAssemblyReference.cache
